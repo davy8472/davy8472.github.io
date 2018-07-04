@@ -1,18 +1,18 @@
 # Site settings
-title: QangLee
-SEOTitle: QangLee的博客 | QangLee
+title: 修罗飞天
+SEOTitle: 修罗飞天的博客 | 修罗飞天
 header-img: img/post-bg-desk.jpg
-email: LeeQang66@126.com
+email: 
 description: ""
-keyword: "QangLee, QangLee Blog, QangLee的博客, QangLee, 李强, cocos, node.js, wechat mini game，wechat mini program"
-url: "http://wozhaodiaodiao.github.io"          # your host, for absolute URL
+keyword: "修罗飞天, 修罗飞天 Blog, 修罗飞天的博客, 修罗飞天, 修罗飞天"
+url: "http://davy8472.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/wozhaodiaodiao/wozhaodiaodiao.github.io.git" # you code repository
+github_repo: "https://github.com/davy8472/davy8472.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "目标决定你将成为什么样的人!"
-sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: ""
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
